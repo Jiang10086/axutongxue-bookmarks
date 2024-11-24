@@ -1,5 +1,6 @@
 # axutongxue-bookmarks
 转换阿虚同学的储物间为可以直接导入为浏览器书签的HTML文件
+源文件来源：https://github.com/axutongxue/axutongxue.github.io/blob/main/index.html
 
 初期思路（已经过时）：
 请用Python处理original.html
